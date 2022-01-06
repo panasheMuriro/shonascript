@@ -1,0 +1,14 @@
+message = "Inini ndinonzi Panashe"
+x = message.tsemuraMashoko();
+nyora(x)
+
+
+teerera mhinduro zita 
+
+tora mhinduro zita{ // tora mhinduro inonzi zita
+    kana 2 akafanana na 3{
+        nyora("vakafanana")
+    }
+}
+
+nyora()
