@@ -1,7 +1,7 @@
 
 
 # ShonaScript Programming Language
-[![Node.js CI](https://github.com/panasheMuriro/shonascript/actions/workflows/node.js.yml/badge.svg)](https://github.com/panasheMuriro/shonascript/actions/workflows/node.js.yml)
+[![Jest](https://github.com/panasheMuriro/shonascript/actions/workflows/node.js.yml/badge.svg)](https://github.com/panasheMuriro/shonascript/actions/workflows/node.js.yml)
 
 
 ![github logo](https://user-images.githubusercontent.com/87081585/148064596-4ddd02e2-3b14-4785-bcf3-d2e1b58be13a.png)
