@@ -15,6 +15,6 @@ Pull requests are welcome. You can also join the whatsapp group for ShonaScript 
 
 ## Contact
 
-Website: https://www.shonascript.org
+Website: [https://www.shonascript.org](https://laughing-clarke-e153a0.netlify.app/)https://laughing-clarke-e153a0.netlify.app/
 
-Support Email: support@shonascript.org
+
