@@ -17,4 +17,6 @@ Pull requests are welcome. You can also join the whatsapp group for ShonaScript 
 
 Website: [https://www.shonascript.org](https://laughing-clarke-e153a0.netlify.app/)
 
+Facebook: [Shonascript Facebook Page](https://m.facebook.com/p/ShonaScript-Programming-Language-100076384746037/)
+
 
