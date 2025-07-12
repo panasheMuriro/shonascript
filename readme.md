@@ -8,7 +8,7 @@
 
 ShonaScript is a programming language created to help native Shona speakers who have never written code to get started on the fundamentals of programming in an easier, and more fun way. The best part is that people can use mostly Shona to write the code.
 
-📓 The documentation is available on the website : [https://www.shonascript.org](https://shonascript.netlify.app/)
+📓 The documentation is available on the website : [https://www.shonascript.org](https://learn-shonascript.netlify.app/)
 
 👨🏾‍💻 Try demo here:  [https://www.shonascript.app](https://app-shonascript.netlify.app/)
 
