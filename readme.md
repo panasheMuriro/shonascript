@@ -18,7 +18,7 @@ Pull requests are welcome. You can also join the whatsapp group for ShonaScript 
 
 ## Contact
 
-Website: [https://www.shonascript.org](https://shonascript.netlify.app/)
+Website: [https://www.shonascript.org](https://learn-shonascript.netlify.app/)
 
 Facebook: [Shonascript Facebook Page](https://m.facebook.com/p/ShonaScript-Programming-Language-100076384746037/)
 
